@@ -63,7 +63,7 @@ Deliberately incomplete or not implemented:
 
 ## Why the implementation is private
 
-The production implementation contains proprietary engineering details and is not published here. This showcase intentionally omits source code, private schemas, policies, routing rules, prompts, recovery algorithms, store designs, credentials, paths, and business/application logic. It presents the architectural reasoning without making the private system reconstructable.
+The private implementation contains proprietary engineering details and is not published here. This showcase intentionally omits source code, private schemas, policies, routing rules, prompts, recovery algorithms, store designs, credentials, paths, and business/application logic. It presents the architectural reasoning without making the private system reconstructable.
 
 ## Read the showcase
 
